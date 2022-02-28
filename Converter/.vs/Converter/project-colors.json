@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "356a25cb-8993-4f58-a6ab-655c5d55d7cd": {
+      "ProjectGuid": "356a25cb-8993-4f58-a6ab-655c5d55d7cd",
+      "DisplayName": "Converter",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
